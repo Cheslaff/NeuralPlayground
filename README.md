@@ -25,4 +25,10 @@
 <img src="https://i.ibb.co/S7RgVcXX/image-3.png" width=30%><br>
 **CycleGAN**
 ---
+<img src="https://i.ibb.co/RTXJxJS1/gpt.png" width=30%><br>
+gen example:
+>Mia was glad but she knew Sarah was curious...
+
+**minGPT**
+---
 *Keeps Updating
