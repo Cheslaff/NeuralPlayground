@@ -31,4 +31,11 @@ gen example:
 
 **minGPT**
 ---
+<img src="https://i.ibb.co/FbtFMF3w/gpt-big.png" width=30%><br>
+gen example:
+> Once upon a time, there was a little girl named Mia. Mia was very patient. She loved to play outside with her friends. One day, Mia and her friend, Tom, came to play. They wanted to play a game called "Find."
+While they were playing, Tom saw Mia and Tom was doing competitive. They had a plan to borrow the red ball. Tom put the red ball in a box. They could not play. Tom said, "I can help you pick it.
+
+**BiggerGPT**
+---
 *Keeps Updating
